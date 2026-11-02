@@ -1,39 +1,21 @@
-# Hi, I'm Ali Akbar Chevalwala
+# Hi, I'm Ali
 
-### Design, marketing, and hands-on web development
+I'm a graphic designer and marketer based in Mississauga, Ontario. I also build websites and tools, and enjoy taking an idea from an early sketch to something people can use.
 
-I bring visual design and marketing thinking into the websites and digital tools I build. My work spans brand and print creative, responsive interfaces, conversion-focused pages, and AI-assisted development.
+## What I'm working on
 
-[View my portfolio](https://alicheval.com) · [Explore Tune Hustle](https://tunehustle.com)
+### [Tune Hustle](https://tunehustle.com)
 
-## Featured projects
+I built Tune Hustle to help independent beauty professionals work out what to charge for their services. It started as a pricing calculator, and I'm now developing a dashboard for saved calculations, price menus, and other day-to-day business needs.
 
-### Tune Hustle
+I handle the design, development, and deployment, using AI to help build and troubleshoot along the way.
 
-A live pricing tool for independent beauty professionals, growing into a broader business management platform. It helps users turn supplies, overhead, time, and profit margin into a sustainable service price.
+**Built with:** HTML, CSS, JavaScript, Cloudflare Pages, Supabase, and Resend.
 
-- **My work:** Product direction, interface design, front-end implementation, deployment, and ongoing iteration.
-- **Built with:** HTML, CSS, JavaScript, Cloudflare Pages, Supabase, Resend, and Google Analytics.
-- **In development:** A dashboard connecting saved calculations with pricing menus and business management tools.
+### [My portfolio](https://alicheval.com)
 
-[Visit Tune Hustle](https://tunehustle.com)
+A selection of my design and marketing work, with case studies explaining the thinking behind each project. It also includes a closer look at how Tune Hustle has developed.
 
-### Personal Portfolio
+---
 
-My design and marketing portfolio, featuring case studies across digital products, websites, and marketing creative. The Tune Hustle case study follows the project from pricing calculator to an evolving platform.
-
-- **Focus:** Clear project storytelling, responsive layouts, and a consistent visual experience.
-- **Delivery:** GitHub-connected deployment through Cloudflare Pages.
-
-[Explore my portfolio](https://alicheval.com)
-
-## How I work
-
-I connect audience needs and business goals with practical design decisions, then test and refine the result. I use AI-assisted workflows alongside hands-on design, implementation, and troubleshooting.
-
-**Design & marketing:** Adobe Creative Suite, UX, brand consistency, SEO, analytics, and campaign creative.  
-**Web & delivery:** HTML, CSS, JavaScript, Git, GitHub, and Cloudflare Pages.
-
-## About the source code
-
-The Tune Hustle and portfolio repositories are private. Their live websites and portfolio case studies are available above. I'm happy to discuss implementation decisions or arrange a code walkthrough for a relevant opportunity.
+Both projects are live, but their source code is private. I'm happy to walk through the code and discuss how they were built.
